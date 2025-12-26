@@ -1,0 +1,14 @@
+# Python
+backend/venv/
+backend/__pycache__/
+*.pyc
+
+# Node
+frontend/phishing-frontend/node_modules/
+frontend/phishing-frontend/build/
+
+# Environment
+.env
+
+# Logs
+npm-debug.log*
